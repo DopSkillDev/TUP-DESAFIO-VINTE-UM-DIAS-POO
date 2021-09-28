@@ -6,15 +6,15 @@
 
 > Aulas Transmitidas.
 
-- Introdução a Programação Orientada a Objetos
-- Criando Classes e Construtores
-- Exercitando a criação de Classes e Construtores
-- Exercitando a criação de Classes e Construtores - P2
-- Herança e Polimorfismo
-- Propriedade Protected
-- Propriedade Publica e Estática
-- Abstração
-- Exercitando Abstração
-- Exercitando Abstração – P2
-- Exercitando Propriedades Simples
-- Exercitando Propriedades Simples P2
+1. Introdução a Programação Orientada a Objetos
+2. Criando Classes e Construtores
+3. Exercitando a criação de Classes e Construtores
+4. Exercitando a criação de Classes e Construtores - P2
+5. Herança e Polimorfismo
+6. Propriedade Protected
+7. Propriedade Publica e Estática
+8. Abstração
+9. Exercitando Abstração
+10. Exercitando Abstração – P2
+11. Exercitando Propriedades Simples
+12. Exercitando Propriedades Simples P2
