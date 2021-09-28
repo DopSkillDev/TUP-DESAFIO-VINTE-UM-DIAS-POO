@@ -13,7 +13,6 @@
 - Herança e Polimorfismo
 - Propriedade Protected
 - Propriedade Publica e Estática
-- Propriedade Publica e Estática
 - Abstração
 - Exercitando Abstração
 - Exercitando Abstração – P2
